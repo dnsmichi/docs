@@ -89,6 +89,7 @@ wide variety of JVM-based applications, for example [Kafka](http://kafka.apache.
    * [Bamboo exporter](https://github.com/AndreyVMarkelov/bamboo-prometheus-exporter)
    * [Bitbucket exporter](https://github.com/AndreyVMarkelov/prom-bitbucket-exporter)
    * [Confluence exporter](https://github.com/AndreyVMarkelov/prom-confluence-exporter)
+   * [GitLab CI pipelines exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter)
    * [Jenkins exporter](https://github.com/lovoo/jenkins_exporter)
    * [JIRA exporter](https://github.com/AndreyVMarkelov/jira-prometheus-exporter)
 
